@@ -1,4 +1,4 @@
-# Real Time Stratergy project
+# Real Time Strategy project
 Based on the tutorial found here: https://udemy.com/course/unity-multiplayer/learn/lecture/22899360#overview
 
 Game is based on a military RTS to learn the basics of multiplayer networking.
